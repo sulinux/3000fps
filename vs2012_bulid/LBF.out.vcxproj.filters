@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\blas\daxpy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\blas\ddot.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\blas\dnrm2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\blas\dscal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\tron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\linear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\LBF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\TrainDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\TestDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\facedetect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\RandomForest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\LBFRegressor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\blas\blas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\blas\blasp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\tron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\liblinear\linear.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\LBF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\RandomForest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\LBFRegressor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Deep_Learning_Project\face-alignment-in-3000fps-master\build\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A1E9293C-81D0-4887-9CF0-3C68065E5DBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E57CFA3B-4B68-4EC8-8AA9-4F43F8AC69EA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

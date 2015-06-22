@@ -1,0 +1,8 @@
+﻿  facedetect.cpp
+e:\deep_learning_project\face-alignment-in-3000fps-master\Tree.h(77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Deep_Learning_Project\face-alignment-in-3000fps-master\facedetect.cpp(117): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _mkdir. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\direct.h(140) : 参见“mkdir”的声明
+E:\Deep_Learning_Project\face-alignment-in-3000fps-master\facedetect.cpp(124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Deep_Learning_Project\face-alignment-in-3000fps-master\facedetect.cpp(125): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Deep_Learning_Project\face-alignment-in-3000fps-master\facedetect.cpp(146): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  LBF.out.vcxproj -> E:\Deep_Learning_Project\face-alignment-in-3000fps-master\vs2012_bulid\Debug\LBF.out.exe
