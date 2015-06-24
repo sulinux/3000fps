@@ -1,3 +1,0 @@
-E:/Deep_Learning_Project/face-alignment-in-3000fps-master/vs2012_bulid/CMakeFiles/ALL_BUILD.dir
-E:/Deep_Learning_Project/face-alignment-in-3000fps-master/vs2012_bulid/CMakeFiles/ZERO_CHECK.dir
-E:/Deep_Learning_Project/face-alignment-in-3000fps-master/vs2012_bulid/CMakeFiles/LBF.out.dir
